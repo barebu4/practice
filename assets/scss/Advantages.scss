@@ -1,0 +1,45 @@
+// General
+
+.container-advantages{
+  margin-top: 10em;
+}
+
+#h2-in-row{
+  display: inline-block;
+  margin-bottom: 3em;
+  text-align: start;
+}
+
+.row{
+  width: 70em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+// Card
+
+.card-body{
+  margin: .05em;
+  padding: 2em;
+  text-align: start;
+  border-radius: 20px;
+  border: .5px solid rgb(56, 56, 56);
+  height: 15em;
+}
+
+.first-row{
+  display: flex;
+  text-align: center;
+}
+
+.card-title{
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 1em;
+}
+
+.card-text{
+  font-weight: 100;
+  margin-top: 2em;
+}

@@ -1,0 +1,109 @@
+// General
+
+.bottom-section{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15em;
+    margin-left: 5em;
+    margin-right: 5em;
+    height: 20em;
+}
+
+
+// First cont
+
+.OOO{
+    margin-top: 3em;
+    margin-bottom: 2em;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.first-conteiner p{
+    margin-bottom: 0;
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.second-p{
+    display: flex;
+}
+
+.KPP{
+    margin-left: 2em;
+}
+
+.first-conteiner span{
+    color: gray;
+}
+
+
+// Second and third cont
+
+// General li in ul
+
+.main-li{
+    color: white;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+ul{
+    width: 20em;
+}
+
+li{
+    list-style-type: none;
+    font-size: 18px;
+    color: gray;
+    text-align: start;
+    margin-top: .5em;
+    margin-bottom: .5em;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(196, 196, 196);
+    font-weight: 100;
+    cursor: pointer;
+}
+
+
+// Fourth cont
+
+svg{
+    margin-right: .5em;
+}
+
+.ul-contacts li{
+    color: rgb(196, 196, 196);
+    font-weight: 100;
+}
+
+#main-li-fourth{
+    color: white;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.link{
+    border-bottom: 1px solid rgb(196, 196, 196);
+}
+
+.right-button-bottom{
+    display: block;
+    text-align: center;
+    padding: .5em;
+    padding-left: 1em;
+    padding-right: 1em;
+    border-radius: 9px;
+    background-color: #1078D7;
+    color: white;
+    font-weight: 450;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: 5em;
+    width: 10em;
+    margin: 0;
+    margin-top: 2em;
+}

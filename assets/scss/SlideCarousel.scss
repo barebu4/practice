@@ -1,0 +1,46 @@
+// Carousel
+
+.carousel-section{
+    margin-top: 5em;
+}
+
+.carousel-item{
+    height: 25em;
+}
+
+.carousel-caption{
+    width: 60em;
+    height: 100%;
+    font-size: 14px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+    text-align: start;
+}
+
+.child{
+    display: inline-block;
+    margin-right: 7em;
+    align-items: center;
+    position: absolute;
+    height: 100%;
+    align-items: center;
+}
+
+.child, .img-child img{
+    width: 25em;
+}
+
+.child-text{
+    margin-top: 2em;
+    margin-bottom: auto;
+}
+
+.slide-description, .btn.btn-primary a{
+    font-weight: lighter;
+}
+
+.img-child{
+    text-align: end;
+}

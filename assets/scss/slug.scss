@@ -1,0 +1,42 @@
+// General
+
+.project{
+    display: flex;
+    margin-top: 10em;
+    margin-left: 10em;
+    margin-right: 10em;
+}
+
+.project-page{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.first-conteiner{
+    width: 50em;
+}
+
+p.project-description{
+    font-size: 18px;
+    margin-top: 5em;
+}
+
+div.second-conteiner{
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    justify-content: right;
+}
+
+.second-conteiner img{
+    width: 30em;
+    border-radius: 10px;
+}
+
+ul.project-meta{
+    width: 30em;
+    margin: 0;
+    margin-top: 1em;
+    text-align: right   ;
+}

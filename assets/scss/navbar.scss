@@ -1,0 +1,72 @@
+// Pre-navbar
+
+.pre-navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 42px;
+}
+
+.pre-navbar div{
+    margin-left: 1em;
+    margin-right: 1em;
+    font-size: 16px;
+    font-weight: 100;
+    color: gray;
+}
+
+.pre-navbar p{
+    margin: 0;
+}
+
+.pre-navbar svg{
+    margin-right: .5em;
+}
+
+
+// Navbar
+
+.navbar .dropdown ul li a:visited, a:visited{
+    li.dropdown-item{
+    color: black;}
+    .dropdown-toggle a:visited{
+        color: white;
+    }
+}
+
+.navbar-brand{
+    margin-left: 3em;
+}
+
+ul{
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li a{
+    margin-left: auto;
+    margin-right: auto;
+    width: 7em;
+    text-align: center;
+}
+
+
+.button-conteiner{
+    display: flex;
+}
+
+div.right-button{
+    display: block;
+    text-align: center;
+    padding: .5em;
+    padding-left: 1em;
+    padding-right: 1em;
+    border-radius: 9px;
+    background-color: #1078D7;
+    color: white;
+    font-weight: 450;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: 5em;
+}
