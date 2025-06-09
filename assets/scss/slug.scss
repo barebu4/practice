@@ -13,14 +13,41 @@
     justify-content: space-between;
 }
 
+// First conteiner
+
 .first-conteiner{
     width: 50em;
 }
 
-p.project-description{
-    font-size: 18px;
-    margin-top: 5em;
+h1{
+    padding-bottom: 1em;
+    border-bottom: 1px solid gray;
 }
+
+h2{
+    margin-top: 2em;
+}
+
+.project-description p{
+    font-size: 18px;
+    color: rgb(196, 196, 196);
+}
+
+p.data-link{
+    cursor: pointer;
+    margin-top: .5em;
+    margin-bottom: .5em;
+}
+
+p.data-link a{
+    text-decoration: underline;
+}
+
+li{
+    color: rgb(196, 196, 196);
+}
+
+// Second cont
 
 div.second-conteiner{
     display: flex;
@@ -31,12 +58,47 @@ div.second-conteiner{
 
 .second-conteiner img{
     width: 30em;
-    border-radius: 10px;
+    // border-radius: 10px;
 }
+
+// Image conteiner
+
+.img-conteine{
+    width: 100%;
+}
+
+.main-img{
+    width: 100%;
+}
+
+.additional-img-conteiner{
+    display: flex;
+    margin-top: .1em;
+    justify-content: space-between;
+}
+
+.additional-img{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.additional-img img{
+    width: 10em;
+    height: 10em;
+    padding-right: .1em;
+}
+
+.additional-img.third-img img{
+    padding-right: 0;
+
+}
+
+// Ul
 
 ul.project-meta{
     width: 30em;
     margin: 0;
     margin-top: 1em;
-    text-align: right   ;
+    text-align: right;
 }
