@@ -1,4 +1,4 @@
-
+Верстка сайта на Nuxt с использованием Vue.js
 
 # Nuxt Minimal Starter
 
