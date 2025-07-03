@@ -1,4 +1,4 @@
-Верстка сайта на Nuxt с использованием Vue.js
+Верстка сайта на Nuxt с использованием Vue.js по макету Figma
 
 # Nuxt Minimal Starter
 
